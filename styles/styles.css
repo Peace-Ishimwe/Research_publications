@@ -10,7 +10,7 @@
     --green-Color:#65E4A3;
 }
 #firstSection{
-    background-color: white;
+    background-color: rgb(249, 225, 225);
     min-height:100vh;
 }
 
@@ -38,7 +38,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #ffffff;
+    background-color: #e0e7d6;
     box-shadow: 0.4rem 0.4rem 0.4rem rgb(200, 198, 198);
 }
 .navLinks{
